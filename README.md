@@ -7,7 +7,7 @@ CarForesight is a machine learning-based web application that predicts the sale 
     View visualizations and insights gained from exploratory data analysis (EDA)
     
 ## 💻App Link💻
-https://shivamsinghhhh-laptoppr-laptop-price-app-by-shivam-singh-jmdqv6.streamlit.app/
+[https://shivamsinghhhh-carforesight-carforesight-elviyn.streamlit.app/]
 
 ## 💻🎨 Technologies Used
 
