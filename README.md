@@ -5,6 +5,9 @@ CarForesight is a machine learning-based web application that predicts the sale 
 
     Predict the sale price of a used car based on various features
     View visualizations and insights gained from exploratory data analysis (EDA)
+    
+## 💻App Link💻
+https://shivamsinghhhh-laptoppr-laptop-price-app-by-shivam-singh-jmdqv6.streamlit.app/
 
 ## 💻🎨 Technologies Used
 
@@ -31,7 +34,7 @@ To get started with the Used Car Price Predictor, you can:
 To use the app:
 
     - Input the necessary car features on the sidebar
-    - Click on the 'Predict' button to generate a prediction for the car's sale price
+    - Click on the 'Predict' button to generate a prediction for the car's sale price 
 
 ## Dataset 💻
 
@@ -39,3 +42,6 @@ The dataset used in this project is sourced from SkillAcademy  Car Details Datas
 
 ## License 🔏
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📱Contact📱
+If you have any questions or comments about the project, feel free to contact me at <shivam88official@gmail.com>.
